@@ -1,38 +1,60 @@
 <h1 align="center">Hi 👋, I'm Frixon Luna</h1>
-<h3 align="center">A systems engineering student from Ecuador</h3>
+<h3 align="center">Systems Engineering Student | Backend & Data Enthusiast</h3>
 
-- 📫 How to reach me **frixonluna2003@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="mailto:frixonluna2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-frixonluna2003%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <img src="https://img.shields.io/badge/Location-Ecuador-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/University-Universidad%20Central%20del%20Ecuador-green?style=for-the-badge">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+---
 
-  <!-- Java -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
+## 👨‍💻 About Me
 
-  <!-- HTML5 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  </a>
+🎓 Systems Engineering student at **Universidad Central del Ecuador**  
+💻 Passionate about backend and frontend development, data management and automation  
+🚀 Always learning and building practical solutions  
 
-  <!-- CSS3 -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  </a>
+---
 
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  </a>
+## 🛠️ Tech Stack
 
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,html,css" />
 </p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ⚙️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+</p>
+
+- 🔎 Web Scraping (Playwright, automation)
+- 🔁 CI/CD fundamentals
+- 🧪 Backend logic & API integration
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 **frixonluna2003@gmail.com**
+
+---
+
+⭐ *“Code. Learn. Build. Improve.”*

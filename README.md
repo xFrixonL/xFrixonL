@@ -36,14 +36,22 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
-### 🌐 Networking & Infrastructure
+### ⚡ Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=cisco" />
+  <img src="https://skillicons.dev/icons?i=flask,spring" />
+</p>
+
+### 🛠️ IDEs
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 - 🔎 Web Scraping (Playwright, automation)
 - 🔁 CI/CD fundamentals
 - 🧪 Backend logic & API integration
+- 🖧 Routing & Switching fundamentals
+- 🛠️ Packet Tracer practice labs
+- 📡 VLAN configuration & subnetting basics
 
 ---
 

@@ -26,6 +26,11 @@
   <img src="https://skillicons.dev/icons?i=java,python,html,css" />
 </p>
 
+### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css, js" />
+</p>
+
 ### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />

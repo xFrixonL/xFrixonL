@@ -36,6 +36,11 @@
   <img src="https://skillicons.dev/icons?i=git,github,docker" />
 </p>
 
+### 🌐 Networking & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=cisco" />
+</p>
+
 - 🔎 Web Scraping (Playwright, automation)
 - 🔁 CI/CD fundamentals
 - 🧪 Backend logic & API integration

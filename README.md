@@ -13,9 +13,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 Systems Engineering student at **Universidad Central del Ecuador**  
-💻 Passionate about backend and frontend development, data management and automation  
+🎓 Systems Engineering student at **Universidad Central del Ecuador** 💻 Passionate about backend and frontend development, data management and automation  
 🚀 Always learning and building practical solutions  
+
+🔥 **Check out my latest project:** [ArcadeX - Video Game Catalog](https://arcadex-catalogo.onrender.com/)
 
 ---
 
@@ -23,7 +24,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python" />
+  <img src="https://skillicons.dev/icons?i=java,python,r" />
 </p>
 
 ### 🌐 Web Development
@@ -33,12 +34,12 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
 </p>
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools, DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" />
 </p>
 
 ### ⚡ Frameworks
@@ -51,12 +52,11 @@
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
-- 🔎 Web Scraping (Playwright, automation)
-- 🔁 CI/CD fundamentals
-- 🧪 Backend logic & API integration
-- 🖧 Routing & Switching fundamentals
-- 🛠️ Packet Tracer practice labs
-- 📡 VLAN configuration & subnetting basics
+### 🔬 Specialized Skills
+- 🔎 **Web Scraping:** Playwright, Selenium, BeautifulSoup & Automation.
+- 🔁 **DevOps & CI/CD:** Docker containers, and Cloud Deployment.
+- 🧪 **Backend Mastery:** API Integration and Secure Auth systems.
+- 🖧 **Networking:** Routing & Switching fundamentals, VLANs, and Subnetting (Packet Tracer).
 
 ---
 

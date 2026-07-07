@@ -22,14 +22,19 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Programming Languages
+### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,r" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,r" />
 </p>
 
-### 🌐 Web Development
+### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,flask" />
 </p>
 
 ### 🗄️ Databases
@@ -37,26 +42,28 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,supabase" />
 </p>
 
-### ⚙️ Tools, DevOps & Cloud
+### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,githubactions,jenkins,git,github" />
 </p>
 
-### ⚡ Frameworks
+### 📊 Monitoring & Observability
 <p>
-  <img src="https://skillicons.dev/icons?i=flask,spring" />
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
-### 🛠️ IDEs
+### 🛠️ Development Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" />
 </p>
 
 ### 🔬 Specialized Skills
+
 - 🔎 **Web Scraping:** Playwright, Selenium, BeautifulSoup & Automation.
-- 🔁 **DevOps & CI/CD:** Docker containers, and Cloud Deployment.
-- 🧪 **Backend Mastery:** API Integration and Secure Auth systems.
-- 🖧 **Networking:** Routing & Switching fundamentals, VLANs, and Subnetting (Packet Tracer).
+- ☁️ **Cloud & DevOps:** AWS, Docker, Nginx, GitHub Actions, Jenkins & CI/CD pipelines.
+- 📊 **Monitoring:** Prometheus, Grafana & application observability.
+- 🧪 **Backend Development:** REST APIs, Authentication, Spring Boot & Flask.
+- 🖧 **Networking:** Routing & Switching fundamentals, VLANs and Subnetting (Packet Tracer).
 
 ---
 
